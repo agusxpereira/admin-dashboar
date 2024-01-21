@@ -83,7 +83,6 @@ img.icon{
 
 
 .ul-dash li:hover{
-    height: 3rem;
     background-color: #e5e7eb;
 }
 
@@ -202,4 +201,9 @@ img.icon{
 
 .article .text{
     margin: 1rem;
+} 
+
+.aside .article{
+    grid-row: 8/12;
+    grid-column: 2/12;
 }
